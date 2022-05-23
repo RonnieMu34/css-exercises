@@ -1,0 +1,19 @@
+.para {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#thediv {
+    color: blue;
+    font-size: 36px
+}
+
+.para.poro {
+    font-size: 24px;
+}
+
+#thediv2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
